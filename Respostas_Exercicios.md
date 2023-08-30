@@ -48,3 +48,19 @@
 
 ![Alt text](imgs/image-3-5.png)
 
+# Exercicio 4:
+#### R: criando os arquivos secreto.txt e o .gitignore
+
+![Alt text](imgs/image-4.png)
+#### R: adicionando o secreto.txt no .gitignore
+
+![Alt text](imgs/image-4-1.png)
+
+# Exercicio 5:
+#### R: Repositorio Myproject criado no github vazio.
+
+![Alt text](image.png)
+
+#### R: conectando o repositorio github com o local do git.
+![Alt text](image-1.png)
+
