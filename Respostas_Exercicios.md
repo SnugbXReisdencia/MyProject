@@ -17,15 +17,25 @@
 # Exercicio 3:
 #### R: Criando uma branch chamado "feature-navbar".
 
-![Alt text](image-3.png)
+![Alt text](imgs/image-3.png)
 
 #### R: git status para verificar as alterações dos arquivos.
 
-![Alt text](image-3-1.png)
+![Alt text](imgs/image-3-1.png)
 
 #### R: git add . para adicionar as alterações dos arquivos.
 
-![Alt text](image-3-2.png)
+![Alt text](imgs/image-3-2.png)
 
 #### R: git commit para criar um ponto de registro de todas as alterações.
+
+![Alt text](imgs/image-3-3.png)
+
+#### R: git checkout master para voltar para a branch master.
+
+![Alt text](imgs/image-3-4.png)
+
+#### R: git merge feature-navbar para juntar as alterações realizadas na branch feature-navbar com a master.
+
+![Alt text](imgs/image-3-5.png)
 
