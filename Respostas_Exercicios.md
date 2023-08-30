@@ -57,10 +57,17 @@
 ![Alt text](imgs/image-4-1.png)
 
 # Exercicio 5:
-#### R: Repositorio Myproject criado no github vazio.
+#### R: Repositorio MyProject criado no github vazio.
 
-![Alt text](image.png)
+![Alt text](imgs/image-5.png)
 
 #### R: conectando o repositorio github com o local do git.
-![Alt text](image-1.png)
+
+![Alt text](imgs/image-5-1.png)
+
+#### R: passando tudo do repositorio local do git para o github.
+
+![Alt text](imgs/image-5-2.png)
+
+![Alt text](imgs/image-5-3.png)
 
