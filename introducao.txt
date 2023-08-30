@@ -1,0 +1,13 @@
+Esse projeto, tem o intuito de passar os conceitos básicos do uso do Git e GitHub. Capacitando,
+para o trabalho de forma eficiente e colaborativo,
+em projetos de desenvolvimento de software usando controle de versão.
+
+Iniciamos criando um repositório com o nome MyProject, após isso,
+usamos os comando de iniciação do git "git init". Depois disso,
+criamos uma nova Branch para poder manipular alterações,
+sem prejudicar nossos arquivos principais. Seguindo usamos o comando "git status", 
+para verificar as alterações feitas nos arquivos, depois usamos o comando "git add .",
+para adicionar as alterações para poder ser commitadas. Em seguida,
+fazemos o "git commit -m 'Add as novas alterações no arquivo introducao.txt' ".
+
+
