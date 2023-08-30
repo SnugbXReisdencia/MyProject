@@ -12,20 +12,27 @@
 ![Alt text](imgs/image-2.png)
 #### R: Criando um arquivo introducao.txt.
 ##### obs: No arquivo intoducao.txt tem uma breve introdução sobre o projeto.
+
+![Alt text](imgs/image-2-2.png)
+
 ![Alt text](imgs/image-2-1.png)
 
 # Exercicio 3:
 #### R: Criando uma branch chamado "feature-navbar".
 
-![Alt text](image-3.png)
+![Alt text](imgs/image-3.png)
+
+#### R: Adicionando mais informações no arquivo introducao.txt.
+
+![Alt text](imgs/image-3-1.png)
 
 #### R: git status para verificar as alterações dos arquivos.
 
-![Alt text](image-3-1.png)
+![Alt text](imgs/image-3-2.png)
 
 #### R: git add . para adicionar as alterações dos arquivos.
 
-![Alt text](image-3-2.png)
+![Alt text](imgs/image-3-3.png)
 
 #### R: git commit para criar um ponto de registro de todas as alterações.
 
