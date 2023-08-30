@@ -38,11 +38,13 @@
 
 ![Alt text](imgs/image-3-3.png)
 
-#### R: git checkout master para voltar para a branch master.
+#### R: git checkout master para voltar para a branch master, após a troca de branch verifiquei o arquivo introdução e as alterações feitas não estava lá.
+#### obs: para não encher de imagens não fiz o print, pois estava igual a imagem do exercicio 2.
 
 ![Alt text](imgs/image-3-4.png)
 
 #### R: git merge feature-navbar para juntar as alterações realizadas na branch feature-navbar com a master.
+#### obs: para não encher de imagens não fiz o print dessa também, pois estava igual a imagem do exercicio 3.
 
 ![Alt text](imgs/image-3-5.png)
 
