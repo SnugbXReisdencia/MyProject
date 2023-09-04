@@ -71,3 +71,23 @@
 
 ![Alt text](imgs/image-5-3.png)
 
+# Exercicio 6:
+
+#### Fazendo um Forking do repositorio de um colega
+
+![Alt text](imgs/image-6.png)
+
+#### Fazendo o clone do repositorio após o Forking
+
+![Alt text](imgs/image-6-1.png)
+
+#### Fazendo alteração no arquivo introducao.txt do repositorio após o clone
+
+##### Antes da alteração: ![Alt text](imgs/image-6-2.png)
+##### Depois da alteração: ![Alt text](imgs/image-6-3.png)
+
+#### Fazendo o pull request: ![Alt text](imgs/image-6-4.png)
+
+
+
+
