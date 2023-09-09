@@ -102,3 +102,8 @@
 #### commit indesejado no arquivo introducao.txt
 ![Alt text](imgs/image-9.png)
 
+#### Revertendo o commit indesejado
+
+![Alt text](imgs/image-9-1.png)
+
+![Alt text](imgs/image-9-2.png)
