@@ -11,4 +11,3 @@ para adicionar as alterações para poder ser commitadas. Em seguida,
 fazemos o "git commit -m 'Add as novas alterações no arquivo introducao.txt' ".
 
 
-Alteração indesejada !!!
