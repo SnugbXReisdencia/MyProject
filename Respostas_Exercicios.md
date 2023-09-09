@@ -88,6 +88,11 @@
 
 #### Fazendo o pull request: ![Alt text](imgs/image-6-4.png)
 
+# Exercicio 7:
 
+#### 
 
+# Exercicio 8:
+#### Usando o git log para visualizar meu historico de commits.
 
+![Alt text](imgs/image-8.png)
