@@ -107,3 +107,11 @@
 ![Alt text](imgs/image-9-1.png)
 
 ![Alt text](imgs/image-9-2.png)
+
+# Exercicio 10:
+
+#### Criando uma tag de v1.0 do projeto
+
+![Alt text](imgs/image-10.png)
+
+#### Criando uma tag de v2.0 do projeto

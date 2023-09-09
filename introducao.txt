@@ -8,6 +8,9 @@ criamos uma nova Branch para poder manipular alterações,
 sem prejudicar nossos arquivos principais. Seguindo usamos o comando "git status", 
 para verificar as alterações feitas nos arquivos, depois usamos o comando "git add .",
 para adicionar as alterações para poder ser commitadas. Em seguida,
-fazemos o "git commit -m 'Add as novas alterações no arquivo introducao.txt' ".
+fazemos o "git commit -m 'Add as novas alterações no arquivo introducao.txt' ". Em seguida,
+usamos o comando "git push <nome do repositorio remoto> <Nome da branch que vai receber os dados>", 
+para mandar para o github.
+
 
 
