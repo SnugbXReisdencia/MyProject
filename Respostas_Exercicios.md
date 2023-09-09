@@ -115,3 +115,5 @@
 ![Alt text](imgs/image-10.png)
 
 #### Criando uma tag de v2.0 do projeto
+
+![Alt text](imgs/image-10-1.png)
