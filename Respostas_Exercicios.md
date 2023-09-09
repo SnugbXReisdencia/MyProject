@@ -95,10 +95,10 @@
 # Exercicio 8:
 #### Usando o git log para visualizar meu historico de commits.
 
-![Alt text](image-8.png)
+![Alt text](imgs/image-8.png)
 
 # Exercicio 9:
 
 #### commit indesejado no arquivo introducao.txt
-![Alt text](image.png)
+![Alt text](imgs/image-9.png)
 
